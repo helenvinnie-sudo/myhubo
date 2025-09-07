@@ -1,0 +1,7 @@
+Scope of the Solution
+Remote control of room appliances (fan and lamp) via a wireless network.
+Automatic operation triggered by sensors (e.g., motion or temperature sensors).
+Use of Cisco Packet Tracer to design and simulate the system.
+Integration of IoT components such as a home gateway, smart devices, and sensors.
+Simulated communication between devices and remote monitoring/control interface using smartphones or PCs.
+Expansion to other room appliances and sensors could be added later.
