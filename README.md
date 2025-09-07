@@ -1,23 +1,4 @@
-I found a comprehensive project report example on Home Automation using Cisco Packet Tracer that aligns closely with the requested room automation system including fan and lamp control. The structure and content are detailed and can be adapted for generating your report in PDF format.
 
-The typical structure should include:
-
-- Title and cover page
-- Aim and problem statement
-- Abstract / summary
-- Introduction and background
-- Objective and scope
-- Methodology and tools used (Cisco Packet Tracer)
-- Hardware components in simulation (IoT devices, sensors, gateway, etc.)
-- Circuit design and network topology (with Cisco Packet Tracer screenshots)
-- Device configuration and programming (brief code snippets or logic)
-- Simulation results and observations (screenshots with controls working)
-- Conclusion and future scope
-- References
-
-I will now generate a detailed report draft for your project and provide it in PDF format.Here is a detailed room automation system project report draft for generating a PDF:
-
-***
 
 # Room Automation System for Remote Monitoring Using Cisco Packet Tracer
 
