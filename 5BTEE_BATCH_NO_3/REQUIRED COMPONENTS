@@ -1,0 +1,10 @@
+Required Components to Develop Solutions
+IDE/Simulation Software: Cisco Packet Tracer (preferably latest version with IoT support)
+Hardware Components in Simulation:
+Home Gateway (acts as a central controller)
+Wireless Router or Access Point
+Smart Fan (IoT device)
+Smart Lamp (IoT device)
+Motion Sensor or Temperature Sensor for automation triggers
+Smartphone or End Device for remote monitoring and control
+Programming/Configuration: Use Cisco Packet Tracer IoT programming blocks or scripting (e.g., JavaScript, Python, or Blockly within Packet Tracer)
